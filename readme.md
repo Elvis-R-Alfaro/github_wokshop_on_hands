@@ -1,4 +1,4 @@
-#Workshop de Github
+# Workshop de Github
 
 ## 202203 UNICAH
 
@@ -13,4 +13,10 @@ $_git config --global user.email
 3) Push changes ```$_git push```
 
 # Como hacer merges y resolver conflictos
+
+# CI CD Concepts
+
+Conceptos de CI/CD basados en web hooks e Integraciones de Github
+1)CI
+2)CD
 
