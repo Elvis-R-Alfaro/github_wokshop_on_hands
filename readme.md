@@ -12,8 +12,11 @@ $_git config --global user.email
 2) Commit changes ```$_git commit -m "Mensaje"```
 3) Push changes ```$_git push```
 
+# Como hacer merges y resolver conflictos
+
 # CI CD Concepts
 
 Conceptos de CI/CD basados en web hooks e Integraciones de Github
 1)CI
 2)CD
+
